@@ -11,6 +11,8 @@ Verifica installazione:
 node -e "console.log('Hello World');"
 ```
 
+Verifica versione
+
 
 ### NPM
 Gestore di pacchetti per Node.JS
